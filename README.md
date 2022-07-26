@@ -1,17 +1,3 @@
-# Express.js + TypeScript + Docker example
-
-This example demonstrates how to build an Express.js application using TypeScript, and how to wrap the app into Docker container.
-
-## Application dependencies
-
-- [Express.js](https://expressjs.com)
-- [TypeScript](https://www.typescriptlang.org)
-
-## Environment dependencies
-
-- [Node.js](nodejs.org)
-- [Docker](https://store.docker.com/search?offering=community&type=edition) (optional)
-
 ## Usage
 
 - `npm install && npm run build`: build the project

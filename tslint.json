@@ -1,7 +1,11 @@
 {
-	"extends": ["tslint-config-airbnb"],
-	"rules": {
-		"ter-indent": [true, "tab"],
-		"strict-boolean-expressions": false
-	}
+    "extends": ["tslint-config-airbnb"],
+    "rules": {
+        "ter-indent": [false, "tab"],
+        "strict-boolean-expressions": false,
+        "space-in-parens": [2, "never"],
+        "array-bracket-spacing": [2, "never"],
+        "computed-property-spacing": [2, "never"],
+        "object-curly-spacing": [2, "always"]
+    }
 }
